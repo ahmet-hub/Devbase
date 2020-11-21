@@ -1,0 +1,15 @@
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\bin\Debug\netcoreapp3.1\DevbaseChallenge.DataAccess.deps.json
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\bin\Debug\netcoreapp3.1\DevbaseChallenge.DataAccess.dll
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\bin\Debug\netcoreapp3.1\DevbaseChallenge.DataAccess.pdb
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\obj\Debug\netcoreapp3.1\DevbaseChallenge.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\obj\Debug\netcoreapp3.1\DevbaseChallenge.DataAccess.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\obj\Debug\netcoreapp3.1\DevbaseChallenge.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\obj\Debug\netcoreapp3.1\DevbaseChallenge.DataAccess.dll
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\obj\Debug\netcoreapp3.1\DevbaseChallenge.DataAccess.pdb
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\bin\Debug\netcoreapp3.1\DevbaseChallenge.Core.dll
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\bin\Debug\netcoreapp3.1\DevbaseChallenge.Core.pdb
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\obj\Debug\netcoreapp3.1\DevbaseChallenge.DataAccess.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\obj\Debug\netcoreapp3.1\DevbaseChallenge.DataAccess.csproj.CopyComplete
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\bin\Debug\netcoreapp3.1\DevbaseChallenge.DataAccess.runtimeconfig.json
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\bin\Debug\netcoreapp3.1\DevbaseChallenge.DataAccess.runtimeconfig.dev.json
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.DataAccess\obj\Debug\netcoreapp3.1\DevbaseChallenge.DataAccess.genruntimeconfig.cache

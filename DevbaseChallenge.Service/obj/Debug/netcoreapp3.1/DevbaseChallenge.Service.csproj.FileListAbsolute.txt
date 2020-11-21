@@ -1,0 +1,12 @@
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.Service\bin\Debug\netcoreapp3.1\DevbaseChallenge.Service.deps.json
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.Service\bin\Debug\netcoreapp3.1\DevbaseChallenge.Service.dll
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.Service\bin\Debug\netcoreapp3.1\DevbaseChallenge.Service.pdb
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.Service\obj\Debug\netcoreapp3.1\DevbaseChallenge.Service.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.Service\obj\Debug\netcoreapp3.1\DevbaseChallenge.Service.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.Service\obj\Debug\netcoreapp3.1\DevbaseChallenge.Service.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.Service\obj\Debug\netcoreapp3.1\DevbaseChallenge.Service.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.Service\obj\Debug\netcoreapp3.1\DevbaseChallenge.Service.dll
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.Service\obj\Debug\netcoreapp3.1\DevbaseChallenge.Service.pdb
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.Service\bin\Debug\netcoreapp3.1\DevbaseChallenge.Core.dll
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.Service\bin\Debug\netcoreapp3.1\DevbaseChallenge.Core.pdb
+C:\Users\ahmet\source\repos\DevbaseChallenge\DevbaseChallenge.Service\obj\Debug\netcoreapp3.1\DevbaseChallenge.Service.csproj.CopyComplete
